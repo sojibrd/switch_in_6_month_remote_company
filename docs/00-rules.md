@@ -24,7 +24,7 @@ offer হাতে আসার পরে মানুষ যেকোনো স
 2. `brainstorming/` — বিশেষ করে `crack-remote-company-roadmap.md`, `what-should-i-target-local-or-remote.md`, `two-lakh-per-month-in-2-years.md`, `how-to-write-my-cv.md`, `system-design-what-to-ignore-for-remote.md`, `dsa-prep-what-to-ignore-for-remote.md`, `after-getting-response/`
 3. এই ফোল্ডার
 
-এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_local_company_in_6_month/) · **রিমোট** (এটা) · [গ্লোবাল](https://sojibrd.github.io/switch_global_company_in_6_month/)।
+এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_in_6_month_local_company/) · **রিমোট** (এটা) · [গ্লোবাল](https://sojibrd.github.io/switch_in_6_month_global_company/)।
 
 **কখন:** brainstorming-এর ক্রমে রিমোটের আসল জোর প্রথম চাকরি বদলের পরে। তবু plan-টা যেকোনো দিন শুরু করা যায় — সাইট প্রথমবার খুললে শুরুর তারিখ জিজ্ঞেস করে।
 
