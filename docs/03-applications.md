@@ -142,6 +142,7 @@
 ### দিন ০৭৮ · ফানেল — এক বাক্যে, তালিকা ভরা
 
 - [ ] ৩০′ তালিকায় **১০টা নতুন নাম** — একই মহাদেশে, একই তিন দরজায় ভাগ করে; ৩০টার বেশিরভাগে আবেদন হয়ে গেছে বা পদ নেই। মহাদেশ বাড়ানো নয়। আজ DSA-র ঝালাইয়ের জায়গায় 🧠 (Pareto)
+- [ ] ১০′ [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের দিন — ছয় সেকশনের কার্ড 🧠 (Stakes & Rewards)
 - [ ] ১৫′ ফানেলের রায় এক বাক্যে — সাড়া নেই → সিভি, চিঠি বা কোম্পানি বাছাই; প্রথম রাউন্ডে বাদ → interview দক্ষতা বা ইংরেজি; শেষ রাউন্ডে আটকা → বেতন, কাজের সময় বা মিল; **শুধু ঐ একটা জিনিস ঠিক করুন** 🧠 (The dip)
 - [ ] ১৫′ ইংরেজি — রায়টা জোরে, আর পরের সপ্তাহে কোন একটা জিনিস বদলাবেন
 
@@ -149,7 +150,7 @@
 
 ### দিন ০৭৯ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ২২টা; কালকের রায় অনুযায়ী যা বদলানোর, এই আবেদনেই
 - [ ] ১৫′ ইংরেজি — কী বদলালেন, এক মিনিটে
 
@@ -157,7 +158,7 @@
 
 ### দিন ০৮০ · কলের আগে ৩০ মিনিট — ১
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ অনুশীলন — তালিকার একটা কোম্পানি ধরে "কলের আগে ৩০′" নিয়মে: প্রোডাক্ট ব্যবহার, JD আবার, stack, ওদের জন্য ২টা প্রশ্ন — ওদের **আসল প্রোডাক্ট** নিয়ে; নোট কলামে 🧠 (Everything is a game)
 - [ ] ১৫′ ইংরেজি — ঐ কোম্পানির প্রোডাক্ট ১ মিনিটে, আর নিজের কোন কাজটা ওখানে খাটে
 
@@ -165,7 +166,7 @@
 
 ### দিন ০৮১ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ২৩টা
 - [ ] ১৫′ ইংরেজি — আজকের কোম্পানির জন্য "Tell me about yourself"
 
@@ -173,7 +174,7 @@
 
 ### দিন ০৮২ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
 - [ ] ১৫′ ইংরেজি — ৫টা প্রশ্নের দুটো, একটা কাল্পনিক interviewer-কে
 
@@ -196,7 +197,7 @@
 
 ### দিন ০৮৫ · বার্তা
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — `dsa_prep_local_company`-এর bug-এর গল্প, ঠান্ডা শুরুতে
 
@@ -204,7 +205,7 @@
 
 ### দিন ০৮৬ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ২৪টা
 - [ ] ১৫′ ইংরেজি — "Why remote, and why us?"
 
@@ -212,7 +213,7 @@
 
 ### দিন ০৮৭ · কলের আগে ৩০ মিনিট — ২
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ অনুশীলন — আরেকটা কোম্পানি, এবার ভিন্ন দরজার; "কলের আগে ৩০′" — ২০′-এ শেষ করার চেষ্টা 🧠 (Parkinson's law)
 - [ ] ১৫′ ইংরেজি — দুই কোম্পানির পার্থক্য, আর দুই জায়গায় "Why us?" কীভাবে আলাদা
 
@@ -220,7 +221,7 @@
 
 ### দিন ০৮৮ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ২৫টা
 - [ ] ১৫′ ইংরেজি — আজকের প্রবলেমে edge case নিয়ে দুটো প্রশ্ন জোরে: *"Can the array be empty?"*
 
@@ -228,7 +229,7 @@
 
 ### দিন ০৮৯ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
 - [ ] ১৫′ ইংরেজি — এই মাসে সবচেয়ে ভালো লাগা কাজ, কেন
 

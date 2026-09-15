@@ -4,15 +4,15 @@
 
 রিমোটে কারিগরি রাউন্ড সাধারণত দুই রূপে আসে। **লিখিত** — take-home, সাথে "কেন এই সিদ্ধান্ত" বা একটা ছোট design doc; পাঁচ টাইমজোনের টিম সিদ্ধান্ত লিখেই রাখে। **আলোচনামূলক** — shared editor-এ live pairing, বা *"আমাদের এই ফিচারটা আপনি কীভাবে বানাতেন?"* নতুন DSA নয়: pairing-এর অনুশীলন ৫০টার ঝালাই দিয়েই, জোরে, ইংরেজিতে।
 
-রিমোট frontend পদে সবচেয়ে সম্ভাব্য design প্রশ্ন **frontend system design** — component, state, ডেটা আনা ও cache, optimistic update, accessibility। আর `srdtube`-এর **ইংরেজি design doc** — লোকালে যা প্রস্তুতি, রিমোটে তা জমা দেওয়ার মতো নমুনা।
+রিমোট frontend পদে সবচেয়ে সম্ভাব্য design প্রশ্ন **frontend system design** — component, state, ডেটা আনা ও cache, optimistic update, accessibility। আর `srdtube`-এর **ইংরেজি design doc** — লোকালে যা প্রস্তুতি, রিমোটে তা জমা দেওয়ার মতো নমুনা। দুটোই হয় [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এ (এই plan-এর দিন ১০৬–১৩৩); এই ব্লকে ওগুলো মুখে।
 
-মাইলফলক: mock #২ দিন ১৩৯-এ, blog #২ প্রকাশ দিন ১৪৩-এ, ইংরেজি design doc প্রকাশ দিন ১৪৭-এ।
+মাইলফলক: ইংরেজি design doc প্রকাশ দিন ১২৪-এ (system design সাইটে), mock #২ দিন ১৩৯-এ, blog #২ প্রকাশ দিন ১৪৩-এ।
 
 > **ব্লক শেষে:** pairing-এর ৬ ধাপ মুখস্থ, mock #২ হয়েছে, ৩টা component, blog #২ আর ইংরেজি design doc প্রকাশিত?
 
 ### দিন ১২১ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — এখন থেকে জোরে, ইংরেজিতে, pairing-এর ধাপে 🧠 (Spaced repetition · Active learning)
+- [ ] ৩০′ আগে আজকের ঝালাই — এখন থেকে জোরে, ইংরেজিতে, pairing-এর ধাপে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম 🧠 (System vs goal)
 - [ ] ১৫′ ইংরেজি — কোন কোন রাউন্ড হবে, প্রথম কলে কীভাবে জিজ্ঞেস করবেন
 
@@ -20,7 +20,7 @@
 
 ### দিন ১২২ · pairing-এর ৬ ধাপ
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ live pairing-এর **৬ ধাপ** একটা কার্ডে, ইংরেজি বাক্যসহ: ১) নিজের ভাষায় আবার বলা *"So I need to… is that right?"* ২) input নিয়ে ২টা প্রশ্ন ৩) ছোট উদাহরণ হাতে ৪) সহজ সমাধান আগে, তারপর ভালোটা ৫) কোড, মুখে বলতে বলতে ৬) উদাহরণে পরীক্ষা + complexity 🔁 🧠 (Chunk the subject)
 - [ ] ১৫′ ইংরেজি — কার্ড না দেখে ৬ ধাপ বলুন
 
@@ -28,7 +28,7 @@
 
 ### দিন ১২৩ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — আটকে গেলে: *"I'm stuck between two approaches — could I get a hint?"* — পাঁচবার
 
@@ -36,7 +36,7 @@
 
 ### দিন ১২৪ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · ৭–১০ দিন আগের আবেদনে একবার follow-up
 - [ ] ১৫′ ইংরেজি — আজকের ঝালাইয়ে কোন ধাপে চুপ হয়ে গেলেন
 
@@ -59,7 +59,7 @@
 
 ### দিন ১২৭ · বার্তা
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — *"In Ember we'd solve this with…; in React I'd use…"* — একটা উদাহরণ বানিয়ে বলুন
 
@@ -67,7 +67,7 @@
 
 ### দিন ১২৮ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম
 - [ ] ১৫′ ইংরেজি — debounced search-এর ব্যাখ্যা, কোড ছাড়া
 
@@ -75,7 +75,7 @@
 
 ### দিন ১২৯ · framework ২ — state কোথায়
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ **কোন state কোথায়** — component, service, নাকি URL; তিনটার প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ, আর ভুল জায়গায় রাখলে কী ভাঙে 🔁 🧠 (Feynman · Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — উদাহরণ তিনটা জোরে
 
@@ -83,7 +83,7 @@
 
 ### দিন ১৩০ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — state-এর প্রশ্ন, ঠান্ডা শুরুতে
 
@@ -91,7 +91,7 @@
 
 ### দিন ১৩১ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই — ৬ ধাপে, জোরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — ৬ ধাপে, জোরে, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
 - [ ] ১৫′ ইংরেজি — mock #২-এর জন্য সঙ্গীকে সময় নিশ্চিত করার বার্তা, মুখে আগে; এবার shared editor-এ live pairing 🧠 (Community)
 
@@ -100,7 +100,7 @@
 ### দিন ১৩২ · component ২ — modal
 
 - [ ] ৪০′ **Modal, focus trap সহ** — খুললে focus ভেতরে, Tab ঘোরে ভেতরেই, Esc-এ বন্ধ, বন্ধ হলে focus আগের বোতামে; টাইমার ৪০′ 🔁 🧠 (Deliberate practice)
-- [ ] ২০′ frontend system design-এর ক্রম — *"Design an autocomplete UI"* ইংরেজিতে জোরে: চাহিদা → component → state কোথায় → ডেটা আনা ও cache → optimistic update লাগে কি → accessibility 🔁 🧠 (Chunk the subject)
+- [ ] ২০′ frontend system design — [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর তিনটা UI-র একটা এলোমেলো তুলে, ছয় ধাপে, ইংরেজিতে জোরে 🧠 (Interleaving · Test yourself)
 
 > **দিন শেষে:** modal-এ keyboard দিয়ে সব কাজ করে?
 
@@ -158,13 +158,13 @@
 
 > **দিন শেষে:** mock #২ হয়েছে, নোট লেখা?
 
-### দিন ১৪০ · design doc — ১
+### দিন ১৪০ · design doc মুখে — ১
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৩৫′ `srdtube`-এর design doc **ইংরেজিতে**, ছয় সেকশনের প্রথম তিনটা — **কী বানিয়েছি · কতজন ব্যবহারকারী ধরে · কোন সিদ্ধান্ত কেন** (quota, ৫০-id batching, auto-pagination বন্ধ) 🧠 (Active learning)
+- [ ] ৩৫′ `srdtube`-এর ইংরেজি design doc **মুখে**, doc বন্ধ — প্রথম তিন সেকশন: **কী বানিয়েছি · কতজন ব্যবহারকারী ধরে · কোন সিদ্ধান্ত কেন**; রেকর্ড। লেখা ও প্রকাশ হয়েছে [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এ 🧠 (Test yourself · Active learning)
 - [ ] ১৫′ ইংরেজি — mock #২-এর "একটা জিনিস" নিয়ে একটা প্রবলেম আবার, জোরে 🧠 (Deliberate practice)
 
-> **দিন শেষে:** design doc-এর তিন সেকশন লেখা?
+> **দিন শেষে:** তিন সেকশন doc ছাড়া বলা গেছে?
 
 ### দিন ১৪১ · বার্তা
 
@@ -213,13 +213,13 @@
 
 > **দিন শেষে:** সীমার মধ্যে জমা হলো, বাড়তি ফিচার ছাড়া?
 
-### দিন ১৪৭ · design doc — ২
+### দিন ১৪৭ · design doc মুখে — ২
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৩৫′ ⚑ `srdtube`-এর design doc, বাকি তিনটা — **কী বাদ দিয়েছি · গঠনটা কেমন · কোথায় ভাঙবে**; শেষে রিমোট আলোচনার তিন প্রশ্নের উত্তর: *"Why this and not the alternative?" · "What did you deliberately leave out?" · "Availability or consistency here — which, and why?"* (`system_design`-এর ডক ০৪); তারপর repo-তে প্রকাশ 🔁 🧠 (Pareto · Einstellung)
+- [ ] ৩৫′ `srdtube`-এর doc মুখে, বাকি তিনটা — **কী বাদ দিয়েছি · গঠনটা কেমন · কোথায় ভাঙবে**; শেষে তিন রিমোট প্রশ্ন, doc বন্ধ: *"Why this and not the alternative?" · "What did you deliberately leave out?" · "Availability or consistency here — which, and why?"*; রেকর্ড 🧠 (Test yourself · Einstellung)
 - [ ] ১৫′ ইংরেজি — "কোথায় ভাঙবে" সেকশন, সহজ উত্তর আগে, তারপর *"Would you like more detail?"*
 
-> **দিন শেষে:** ছয় সেকশনের ইংরেজি design doc প্রকাশিত?
+> **দিন শেষে:** ছয় সেকশন আর তিন প্রশ্ন doc ছাড়া বলা গেছে?
 
 ### দিন ১৪৮ · বার্তা
 

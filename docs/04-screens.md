@@ -4,7 +4,7 @@
 
 প্রায় সব রিমোট process শুরু হয় ২০–৩০ মিনিটের একটা recruiter call দিয়ে — কোড নেই, তবু অনেকে এখানেই বাদ পড়ে। লোকালের চারটা প্রশ্নের সাথে রিমোটে আরও তিনটা: **কাজের সময় কতটা মিলবে, employee (EOR) নাকি contractor, আর বেতন USD-তে।** সাথে একটা **ভেটিং প্ল্যাটফর্মে আবেদন** — টাইমার-বাঁধা স্ক্রিন, যেটার জন্য রিমোট DSA-র ৫০টা।
 
-রিমোট DSA দিন ০৭৭-এ শেষ হয়েছে; সোম–শুক্রের ঐ ৩০′ = আজকের ঝালাই। ২০টা আবেদন হয়ে গেছে; এখন সংখ্যা নয়, ছন্দ — **সপ্তাহে ২টা, সই না হওয়া পর্যন্ত।**
+রিমোট DSA দিন ০৭৭-এ শেষ হয়েছে; সোম–শুক্রের ঐ ৩০′-এ আগে আজকের ঝালাই, তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর দিন। ২০টা আবেদন হয়ে গেছে; এখন সংখ্যা নয়, ছন্দ — **সপ্তাহে ২টা, সই না হওয়া পর্যন্ত।**
 
 মাইলফলক: ভেটিং প্ল্যাটফর্মে আবেদন (দিন ০৯৯), mock #১ (দিন ১০৪)।
 
@@ -20,7 +20,7 @@
 
 ### দিন ০৯২ · বার্তা
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — "Tell me about yourself" + "Why remote?" একটানা, ৯০ সেকেন্ডে
 
@@ -28,7 +28,7 @@
 
 ### দিন ০৯৩ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম 🧠 (System vs goal)
 - [ ] ১৫′ ইংরেজি — আজকের কোম্পানির জন্য "Why us?"
 
@@ -36,7 +36,7 @@
 
 ### দিন ০৯৪ · বেতনের তিন সংখ্যা, USD-তে
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ বেতনের **তিনটা সংখ্যা, USD-তে** — দিন ০৫৫-এর টেবিল থেকে: সর্বনিম্ন ($১,৭০০-এর নিচে নয়), লক্ষ্য, উচ্চাকাঙ্ক্ষী; contractor হলে আলাদা সংখ্যা — ছুটি, insurance, ট্যাক্স তখন নিজের 🔁 🧠 (Everything is a game)
 - [ ] ১৫′ ইংরেজি — *"What's the budgeted range for this role?"* আর *"For this role I'm looking at Y–Z, depending on whether it's employment or a contract"* — আসল সংখ্যা দিয়ে, পাঁচবার
 
@@ -44,7 +44,7 @@
 
 ### দিন ০৯৫ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — বেতনের প্রশ্ন, কেউ আগে সংখ্যা চাইলে কী বলবেন
 
@@ -52,7 +52,7 @@
 
 ### দিন ০৯৬ · follow-up, mock-এর দিন
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ ৭–১০ দিন আগের আবেদনে একবার follow-up · mock-এর সঙ্গীকে পাঠান — দিন ১০৪-এর সময়, আর প্রশ্নের তালিকা (recruiter call-এর ছয় প্রশ্ন + একটা অপ্রত্যাশিত) 🧠 (Community · Stakes & Rewards)
 - [ ] ১৫′ ইংরেজি — story #২ (কারিগরি সিদ্ধান্ত), ৯০ সেকেন্ড
 
@@ -76,7 +76,7 @@
 
 ### দিন ০৯৯ · ভেটিং প্ল্যাটফর্ম
 
-- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা; দুটোই ফাঁকা থাকলে ৫০টার একটা এলোমেলো প্রবলেম, ঘড়ি ধরে 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই — DSA-র [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ ⚑ **একটা ভেটিং প্ল্যাটফর্ম** — Toptal, Arc, Lemon.io, Gun.io থেকে একটা বাছুন; ধাপগুলো কী, কত সময় লাগে লিখে তারপর আবেদন জমা; spreadsheet-এ সারি, "কোন পথে" = ভেটিং 🧠 (Learning vs Winning)
 - [ ] ১৫′ ইংরেজি — প্ল্যাটফর্মের প্রোফাইলের "About" অংশ মুখে, তারপর লিখে
 
@@ -84,7 +84,7 @@
 
 ### দিন ১০০ · শততম দিন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম
 - [ ] ১৫′ ইংরেজি — ১০০ দিনে কী কী হয়েছে, ১ মিনিট; নিজেকে ছোট একটা পুরস্কার 🧠 (Stakes & Rewards · Compound learning)
 
@@ -92,7 +92,7 @@
 
 ### দিন ১০১ · কঠিন দুটো প্রশ্ন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ কঠিন দুটো প্রশ্ন — *"What's your current salary?"* (সৎভাবে, তারপর প্রত্যাশায় ফেরা) আর *"Have you worked in a distributed team before?"* (না থাকলে কাছাকাছি প্রমাণ — লিখে কাজ, প্রকাশিত blog, PR description) — ৩ বুলেট করে 🔁 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — দুটো উত্তর জোরে, রেকর্ড
 
@@ -100,7 +100,7 @@
 
 ### দিন ১০২ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — recruiter call-এর ছয় প্রশ্ন, নোট ছাড়া
 
@@ -130,7 +130,7 @@
 
 ### দিন ১০৬ · বার্তা
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — story #৩ (অস্পষ্ট পরিস্থিতি), ৯০ সেকেন্ড
 
@@ -138,7 +138,7 @@
 
 ### দিন ১০৭ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম
 - [ ] ১৫′ ইংরেজি — আজকের কোম্পানির জন্য "Tell me about yourself"
 
@@ -146,7 +146,7 @@
 
 ### দিন ১০৮ · ২৪ ঘণ্টার মহড়া
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ মহড়া — নিজের ইমেইলে একটা কাল্পনিক *"we'd like to schedule a call"* লিখুন (লন্ডনের সময়ে), তারপর দিন ০৭৩-এর ছাঁচে ১০ মিনিটে উত্তর, সময় দুই টাইমজোনেই 🧠 (Parkinson's law)
 - [ ] ১০′ spreadsheet-এ "interview-এর পরে ৫ লাইন"-এর জায়গা — প্রতি সারিতে একটা লিংক বা ঘর
 - [ ] ১৫′ ইংরেজি — হঠাৎ recruiter-এর ভিডিও কল ধরলে প্রথম ৩০ সেকেন্ড
@@ -155,7 +155,7 @@
 
 ### দিন ১০৯ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — এই ১০৯ দিনে কী শিখলেন, ১ মিনিট, রেকর্ড
 
@@ -163,7 +163,7 @@
 
 ### দিন ১১০ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
 - [ ] ১৫′ ইংরেজি — "Why remote?", ঠান্ডা শুরুতে
 
@@ -186,7 +186,7 @@
 
 ### দিন ১১৩ · বার্তা
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — বেতনের প্রশ্ন, ঠান্ডা শুরুতে
 
@@ -194,7 +194,7 @@
 
 ### দিন ১১৪ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম
 - [ ] ১৫′ ইংরেজি — "Why us?"
 
@@ -202,7 +202,7 @@
 
 ### দিন ১১৫ · take-home-এর চেকলিস্ট
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ২৫′ take-home এলে কী জমা দেবেন — নিজের চেকলিস্ট: README (কীভাবে চালাতে হয় · কোন সিদ্ধান্ত কেন · সময় থাকলে আর কী), **ইংরেজিতে ছোট design note**, মূল logic-এর কয়েকটা test, পরিষ্কার commit, live link; আর **বলা সময়ই দেবেন** — রিমোটে লেখাটাই পরীক্ষা 🧠 (Parkinson's law)
 - [ ] ১৫′ ইংরেজি — অস্পষ্ট requirement-এ ইমেইলে প্রশ্ন: *"Before I start, could you clarify…"*
 
@@ -210,7 +210,7 @@
 
 ### দিন ১১৬ · আবেদন
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — story #৪ (মতবিরোধ), ৩০ সেকেন্ডের সংস্করণ
 
@@ -218,7 +218,7 @@
 
 ### দিন ১১৭ · follow-up
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
 - [ ] ১৫′ ইংরেজি — ঝালাইয়ের একটা প্রবলেম জোরে, complexity সহ
 
@@ -241,7 +241,7 @@
 
 ### দিন ১২০ · ব্লক ৪-এর হিসাব
 
-- [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
+- [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১০′ ব্লক ৪-এর হিসাব — DSA-র ঝালাই, ভেটিং প্ল্যাটফর্ম, mock #১, বেতনের তিন সংখ্যা, notice period, ফানেলের রায়, interview নোট: কোনটা বাকি, "এখনো ___-এ আছি" 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — recruiter call-এর ছয় প্রশ্ন, রেকর্ড — দিন ০৯৭-এর রেকর্ডিংয়ের সাথে তুলনা
