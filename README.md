@@ -20,7 +20,7 @@
 - **সত্যের উৎস `docs/`।** কোডে কোনো ব্লক, দিন বা কাজ হার্ডকোড নেই।
 - **ফাইলে তারিখ নেই।** তারিখ = শুরুর তারিখ + (দিন − ১); শুরুর তারিখ ব্রাউজারে। দিন ০০১ = সোমবার ধরে লেখা।
 - **"আজ" = ক্যালেন্ডারের তারিখ।** plan পেছায় না। বাদ পড়া সাধারণ কাজ ফেরে না; শুধু ⚑ জমে থাকে।
-- **DSA এই সাইটে নয়।** দিন ০০৮–০৪৭ [`dsa_prep_local_company`](https://sojibrd.github.io/dsa_prep_local_company/), দিন ০৫০–০৯৮ [`dsa_prep_remote_company`](https://sojibrd.github.io/dsa_prep_remote_company/) — এখানে শুধু ঘরটা আর লিংক।
+- **DSA এই সাইটে নয়।** দিন ০০৮–০৭৭ [`dsa_prep_remote_company`](https://sojibrd.github.io/dsa_prep_remote_company/) — এখানে শুধু ঘরটা আর লিংক; ঐ সাইটের তিনটা স্ক্রিন-মহড়া এই plan-এর দিন ০৩৪, ০৬২, ০৭৬-এর শনিবারে।
 - **Static export → GitHub Pages।** Backend নেই।
 - **Progress শুধু `localStorage`-এ,** একমাত্র `app/hooks/useProgress.ts` দিয়ে। **`app/lib/plan.ts` server-only।**
 - **তিন plan-এর কোড এক।** পার্থক্য শুধু `app/lib/site.ts`, `next.config.ts`-এর basePath আর `docs/`। কোড বদলালে তিন repo-তেই একই বদল।
@@ -31,11 +31,11 @@
 
 | ফাইল | দিন | Gist |
 |---|---|---|
-| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (২০ আবেদন, ৫ process; সীমা $১,৭০০), সত্যের উৎস, বাজার (ইউরোপ আগে), তিন দরজা (remote-first · ভেটিং · কন্ট্রাক্ট), Ember-এর সুবিধা, সপ্তাহের ছন্দ আর DSA-র দুই সাইট (দিনে ৩০′-এ থামে), লেখার বসা, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা আনার ব্যবস্থা, দিন ১৮০-র পরে |
+| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (২০ আবেদন, ৫ process; সীমা $১,৭০০), সত্যের উৎস, বাজার (ইউরোপ আগে), তিন দরজা (remote-first · ভেটিং · কন্ট্রাক্ট), Ember-এর সুবিধা, সপ্তাহের ছন্দ আর DSA-র সাইট (দিন ০০৮–০৭৭, তিন শনিবারে মহড়া), লেখার বসা, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা আনার ব্যবস্থা, দিন ১৮০-র পরে |
 | [docs/01-proof.md](docs/01-proof.md) | ০০১–০৩০ | portfolio, সীমার বাক্য, রিমোট সিভির দুই সংস্করণ, এক মহাদেশের ৩০টা নাম, প্রথম আবেদন দিন ০০৭-এ, টাকা আনার ব্যবস্থা, ৬ STAR, ৯টা ইংরেজি README। শেষে: ৮টা আবেদন |
-| [docs/02-writing.md](docs/02-writing.md) | ০৩১–০৬০ | GitHub প্রোফাইল, blog #১ (theme contract), PR description, রিমোট "Tell me about yourself", USD-তে বেতনের তিন উৎস; লোকাল DSA শেষ, রিমোট DSA শুরু দিন ০৫০-এ। শেষে: ১৭টা আবেদন |
+| [docs/02-writing.md](docs/02-writing.md) | ০৩১–০৬০ | GitHub প্রোফাইল, blog #১ (theme contract), PR description, রিমোট "Tell me about yourself", USD-তে বেতনের তিন উৎস; DSA-র স্ক্রিন-মহড়া #১ দিন ০৩৪-এ। শেষে: ১৭টা আবেদন |
 | [docs/03-applications.md](docs/03-applications.md) | ০৬১–০৯০ · dip | দিন ০৭৮-এর মধ্যে ২০টা, দরজা ধরে ফানেল, ওদের টাইমজোনে ২৪ ঘণ্টার উত্তর, ওদের আসল ফিচার নিয়ে design আলোচনা |
-| [docs/04-screens.md](docs/04-screens.md) | ০৯১–১২০ · dip | recruiter call-এর ছয় প্রশ্ন (overlap, EOR/contractor, USD), রিমোট DSA-র ৫০টা শেষ, ভেটিং প্ল্যাটফর্মে আবেদন, mock #১। আবেদন সপ্তাহে ২টা |
+| [docs/04-screens.md](docs/04-screens.md) | ০৯১–১২০ · dip | recruiter call-এর ছয় প্রশ্ন (overlap, EOR/contractor, USD), ভেটিং প্ল্যাটফর্মে আবেদন, mock #১। আবেদন সপ্তাহে ২টা |
 | [docs/05-technical.md](docs/05-technical.md) | ১২১–১৫০ · dip | live pairing-এর ৬ ধাপ, ৩টা component, Ember বনাম React, frontend system design, blog #২ (hydration), `srdtube`-এর ইংরেজি design doc, take-home মহড়া, mock #২ |
 | [docs/06-five-processes.md](docs/06-five-processes.md) | ১৫১–১৮০ · dip | রিমোটের প্রশ্নসহ behavioral, নোট থেকে সিলেবাস, ফানেলের শেষ রায়, রিমোট offer-এর চেকলিস্ট, mock #৩ ও #৪, ইংরেজির তুলনা। শেষে: ২০ আবেদন, ৫ process |
 

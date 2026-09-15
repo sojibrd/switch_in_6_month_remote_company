@@ -4,7 +4,7 @@
 
 রিমোটে আপনার GitHub-ই আপনার সিভি। প্রথম সপ্তাহে কাগজপত্র, offer-এর সীমা আর **প্রথম আবেদন**; তারপর আবেদন, DSA, STAR story আর ইংরেজি README একসাথে। প্রস্তুতি শেষ হওয়ার অপেক্ষা নেই — আবেদন শুরু এই সপ্তাহেই।
 
-মাইলফলক: **সীমার বাক্য দিন ০০৩-এ**, **প্রথম আবেদন দিন ০০৭-এ**, **টাকা আনার ব্যবস্থা দিন ০১৩-এ**, **৬টা STAR story আর ৯টা ইংরেজি README দিন ০৩০-এর মধ্যে**। DSA শুরু দিন ০০৮-এ — [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ, দিনে ১টা।
+মাইলফলক: **সীমার বাক্য দিন ০০৩-এ**, **প্রথম আবেদন দিন ০০৭-এ**, **টাকা আনার ব্যবস্থা দিন ০১৩-এ**, **৬টা STAR story আর ৯টা ইংরেজি README দিন ০৩০-এর মধ্যে**। DSA শুরু দিন ০০৮-এ — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, দিনে ১টা, প্রথম দিন থেকে ঘড়ি ধরে আর ইংরেজিতে।
 
 > **ব্লক শেষে:** প্রথম আবেদন গেছে, সীমা কাগজে লেখা, টাকা আনার ব্যবস্থা তৈরি, ৬টা story আর ৯টা README ইংরেজিতে, এ পর্যন্ত ৮টা আবেদন?
 
@@ -65,7 +65,7 @@
 
 ### দিন ০০৮ · DSA শুরু
 
-- [ ] ৩০′ DSA — [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের প্রবলেম; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের প্রবলেম; **টাইমার, সাদা editor, ইংরেজিতে জোরে**; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice · Test yourself)
 - [ ] ১৫′ LinkedIn বার্তা ×২ — তালিকার কোম্পানির engineer বা hiring manager-কে, ৩ লাইনের ইংরেজি ছাঁচে 🧠 (Community)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -73,7 +73,7 @@
 
 ### দিন ০০৯ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ২টা; আগে পরিচিত কেউ, তারপর সিভি ১০′ আর চিঠি ১০′
 - [ ] ১৫′ ইংরেজি — আজকের পদের JD-র ৩টা মূল শব্দ দিয়ে নিজের কাজ ১ মিনিটে
 
@@ -81,7 +81,7 @@
 
 ### দিন ০১০ · STAR #২
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ STAR #২ — **কঠিন কারিগরি সিদ্ধান্ত:** অফিসের কোনো architecture বা library বাছাই; কী কী বিকল্প ছিল, কেন এটা 🔁 🧠 (Feynman)
 - [ ] ১৫′ ইংরেজি — story #২ রেকর্ড, ৯০ সেকেন্ড
 
@@ -89,7 +89,7 @@
 
 ### দিন ০১১ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৩টা; অন্তত একটা Ember পদ
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -97,7 +97,7 @@
 
 ### দিন ০১২ · টাকা আনার পথ
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ টাকা আনার পথ বাছাই — Payoneer নাকি ব্যাংকে রেমিট্যান্স; প্রতিটায় কী কাগজ লাগে, কত সময়, এক পাতায় পাশাপাশি 🧠 (Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -121,7 +121,7 @@
 
 ### দিন ০১৫ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -129,7 +129,7 @@
 
 ### দিন ০১৬ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৪টা
 - [ ] ১৫′ ইংরেজি — চিঠির "কাজের সময় কতটা মেলে" লাইনটা মুখে: *"I'm in UTC+6, so my afternoon overlaps with your morning."*
 
@@ -137,7 +137,7 @@
 
 ### দিন ০১৭ · STAR #৪
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ STAR #৪ — **মতবিরোধ:** code review-তে দ্বিমত, বা deadline নিয়ে PM-এর সাথে টানাপোড়েন — ঝগড়া নয়, দ্বিমত সত্ত্বেও কাজ কীভাবে এগোল 🔁 🧠 (Feynman)
 - [ ] ১৫′ ইংরেজি — story #৪ রেকর্ড
 
@@ -145,7 +145,7 @@
 
 ### দিন ০১৮ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৫টা
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -153,7 +153,7 @@
 
 ### দিন ০১৯ · প্রথম follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · আর দিন ০০৭–০০৯-এর আবেদনে একবার follow-up, লিখে
 - [ ] ১৫′ ইংরেজি — follow-up বার্তাটা লেখার আগে মুখে বলুন
 
@@ -177,7 +177,7 @@
 
 ### দিন ০২২ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২ — এবার Ember কোডবেসের কোম্পানিতে
 - [ ] ১৫′ ইংরেজি — *"I've been working with Ember 6 and GJS…"* — এক মিনিটে নিজের Ember কাজ
 
@@ -185,7 +185,7 @@
 
 ### দিন ০২৩ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৬টা
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -193,7 +193,7 @@
 
 ### দিন ০২৪ · STAR #৬ — ব্যর্থতা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ ⚑ STAR #৬ — **ব্যর্থতা:** সত্যিকারের একটা ভুল — কী ভুল, দোষ কোথায় আপনার, **তারপর থেকে কী আলাদা করেন** 🔁 🧠 (Failures don't count)
 - [ ] ১৫′ ইংরেজি — story #৬ রেকর্ড
 
@@ -201,7 +201,7 @@
 
 ### দিন ০২৫ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৭টা
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -209,7 +209,7 @@
 
 ### দিন ০২৬ · follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · ৭–১০ দিন আগের আবেদনে একবার follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -232,7 +232,7 @@
 
 ### দিন ০২৯ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -240,7 +240,7 @@
 
 ### দিন ০৩০ · ব্লক ১-এর হিসাব
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৮টা
 - [ ] ১০′ ব্লক ১-এর হিসাব — প্রথম আবেদন, সীমার বাক্য, টাকার ব্যবস্থা, ৬ story, ৯ README, ৮ আবেদন: কোনটা বাকি, এক লাইনে কেন; "আমি পারিনি" নয়, "এখনো ___-এ আছি" 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — এই ৩০ দিনে কী বদলেছে, ১ মিনিট, রেকর্ড

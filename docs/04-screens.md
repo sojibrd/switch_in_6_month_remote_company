@@ -4,11 +4,11 @@
 
 প্রায় সব রিমোট process শুরু হয় ২০–৩০ মিনিটের একটা recruiter call দিয়ে — কোড নেই, তবু অনেকে এখানেই বাদ পড়ে। লোকালের চারটা প্রশ্নের সাথে রিমোটে আরও তিনটা: **কাজের সময় কতটা মিলবে, employee (EOR) নাকি contractor, আর বেতন USD-তে।** সাথে একটা **ভেটিং প্ল্যাটফর্মে আবেদন** — টাইমার-বাঁধা স্ক্রিন, যেটার জন্য রিমোট DSA-র ৫০টা।
 
-রিমোট DSA দিন ০৯৮-এ শেষ; তারপর সোম–শুক্রের ঐ ৩০′ = আজকের ঝালাই। ২০টা আবেদন হয়ে গেছে; এখন সংখ্যা নয়, ছন্দ — **সপ্তাহে ২টা, সই না হওয়া পর্যন্ত।**
+রিমোট DSA দিন ০৭৭-এ শেষ হয়েছে; সোম–শুক্রের ঐ ৩০′ = আজকের ঝালাই। ২০টা আবেদন হয়ে গেছে; এখন সংখ্যা নয়, ছন্দ — **সপ্তাহে ২টা, সই না হওয়া পর্যন্ত।**
 
-মাইলফলক: রিমোট DSA-র ৫০টা (দিন ০৯৮), ভেটিং প্ল্যাটফর্মে আবেদন (দিন ০৯৯), mock #১ (দিন ১০৪)।
+মাইলফলক: ভেটিং প্ল্যাটফর্মে আবেদন (দিন ০৯৯), mock #১ (দিন ১০৪)।
 
-> **ব্লক শেষে:** রিমোট DSA-র ৫০টা শেষ, ভেটিং প্ল্যাটফর্মে আবেদন গেছে, mock #১ হয়েছে, USD-তে বেতনের তিন সংখ্যা আর notice period লেখা, প্রতিটা interview-এর ৫ লাইনের নোট আছে?
+> **ব্লক শেষে:** ভেটিং প্ল্যাটফর্মে আবেদন গেছে, mock #১ হয়েছে, USD-তে বেতনের তিন সংখ্যা আর notice period লেখা, প্রতিটা interview-এর ৫ লাইনের নোট আছে?
 
 ### দিন ০৯১ · কেন রিমোট, কেন বদল
 
@@ -20,7 +20,7 @@
 
 ### দিন ০৯২ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
 - [ ] ১৫′ LinkedIn বার্তা ×২
 - [ ] ১৫′ ইংরেজি — "Tell me about yourself" + "Why remote?" একটানা, ৯০ সেকেন্ডে
 
@@ -28,7 +28,7 @@
 
 ### দিন ০৯৩ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
 - [ ] ৩০′ আবেদন — সপ্তাহের ১ম 🧠 (System vs goal)
 - [ ] ১৫′ ইংরেজি — আজকের কোম্পানির জন্য "Why us?"
 
@@ -36,7 +36,7 @@
 
 ### দিন ০৯৪ · বেতনের তিন সংখ্যা, USD-তে
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
 - [ ] ২৫′ বেতনের **তিনটা সংখ্যা, USD-তে** — দিন ০৫৫-এর টেবিল থেকে: সর্বনিম্ন ($১,৭০০-এর নিচে নয়), লক্ষ্য, উচ্চাকাঙ্ক্ষী; contractor হলে আলাদা সংখ্যা — ছুটি, insurance, ট্যাক্স তখন নিজের 🔁 🧠 (Everything is a game)
 - [ ] ১৫′ ইংরেজি — *"What's the budgeted range for this role?"* আর *"For this role I'm looking at Y–Z, depending on whether it's employment or a contract"* — আসল সংখ্যা দিয়ে, পাঁচবার
 
@@ -44,7 +44,7 @@
 
 ### দিন ০৯৫ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
 - [ ] ৩০′ আবেদন — সপ্তাহের ২য়
 - [ ] ১৫′ ইংরেজি — বেতনের প্রশ্ন, কেউ আগে সংখ্যা চাইলে কী বলবেন
 
@@ -52,7 +52,7 @@
 
 ### দিন ০৯৬ · follow-up, mock-এর দিন
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ আজকের ঝালাই — DSA-র ঝালাই [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ, বাকিটা এই সাইটের ঝালাই-তালিকা 🧠 (Spaced repetition)
 - [ ] ১৫′ ৭–১০ দিন আগের আবেদনে একবার follow-up · mock-এর সঙ্গীকে পাঠান — দিন ১০৪-এর সময়, আর প্রশ্নের তালিকা (recruiter call-এর ছয় প্রশ্ন + একটা অপ্রত্যাশিত) 🧠 (Community · Stakes & Rewards)
 - [ ] ১৫′ ইংরেজি — story #২ (কারিগরি সিদ্ধান্ত), ৯০ সেকেন্ড
 
@@ -66,13 +66,13 @@
 
 > **দিন শেষে:** notice period লেখা, আর ছয় প্রশ্নের রেকর্ডিং আছে?
 
-### দিন ০৯৮ · ৫০টা — থামা
+### দিন ০৯৮ · নড়বড়ে pattern
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৩০′ ⚑ DSA — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এর শেষ দিন; ৫০টা শেষ। থামার সিদ্ধান্ত লিখুন — নতুন প্রবলেম নয়, এখন থেকে শুধু ঝালাই 🧠 (Have an endpoint · 10,000 hours rule)
+- [ ] ৩০′ আজকের ঝালাই — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/review/)-এ; ঝালাই ফাঁকা থাকলে ৫০টার যেটা সবচেয়ে নড়বড়ে, ঘড়ি ধরে 🧠 (Spaced repetition)
 - [ ] ১৫′ ইংরেজি — ৫০টার মধ্যে কোন pattern এখনো নড়বড়ে, এক মিনিটে
 
-> **দিন শেষে:** ৫০টা শেষ, আর থামার সিদ্ধান্ত লেখা?
+> **দিন শেষে:** নড়বড়ে pattern-টা লেখা?
 
 ### দিন ০৯৯ · ভেটিং প্ল্যাটফর্ম
 
@@ -243,7 +243,7 @@
 
 - [ ] ৩০′ আজকের ঝালাই 🧠 (Spaced repetition)
 - [ ] ১৫′ LinkedIn বার্তা ×২
-- [ ] ১০′ ব্লক ৪-এর হিসাব — ৫০ DSA, ভেটিং প্ল্যাটফর্ম, mock #১, বেতনের তিন সংখ্যা, notice period, ফানেলের রায়, interview নোট: কোনটা বাকি, "এখনো ___-এ আছি" 🧠 (It's all in the frame)
+- [ ] ১০′ ব্লক ৪-এর হিসাব — DSA-র ঝালাই, ভেটিং প্ল্যাটফর্ম, mock #১, বেতনের তিন সংখ্যা, notice period, ফানেলের রায়, interview নোট: কোনটা বাকি, "এখনো ___-এ আছি" 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — recruiter call-এর ছয় প্রশ্ন, রেকর্ড — দিন ০৯৭-এর রেকর্ডিংয়ের সাথে তুলনা
 
 > **দিন শেষে:** ব্লক ৪ — mock #১ আর recruiter call-এর সব উত্তর তৈরি?

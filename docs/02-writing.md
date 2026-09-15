@@ -2,15 +2,15 @@
 
 *দিন ০৩১–০৬০*
 
-রিমোট নিয়োগ মানে দূর থেকে বিশ্বাস কেনা — ওরা আপনাকে দেখে না, পড়ে। এই ব্লকে লেখা প্রমাণ হয়ে ওঠে: GitHub প্রোফাইল, প্রথম **ইংরেজি blog post**, একটা ভালো PR description, আর ৬০ সেকেন্ডের রিমোট "Tell me about yourself"। লোকালের DSA-র ৩০টা দিন ০৪৭-এ শেষ, **দিন ০৫০ থেকে রিমোট DSA — ঘড়ি ধরে, ইংরেজিতে।**
+রিমোট নিয়োগ মানে দূর থেকে বিশ্বাস কেনা — ওরা আপনাকে দেখে না, পড়ে। এই ব্লকে লেখা প্রমাণ হয়ে ওঠে: GitHub প্রোফাইল, প্রথম **ইংরেজি blog post**, একটা ভালো PR description, আর ৬০ সেকেন্ডের রিমোট "Tell me about yourself"। রিমোট DSA চলছে — ঘড়ি ধরে, ইংরেজিতে; **দিন ০৩৪-এ প্রথম স্ক্রিনের মহড়া।**
 
-মাইলফলক: blog #১ প্রকাশ (দিন ০৪২), লোকাল DSA শেষ (দিন ০৪৭), mock-এর সঙ্গী (দিন ০৪৮), রিমোট DSA শুরু আর Dip-এর নিয়ম কাগজে (দিন ০৫০)।
+মাইলফলক: DSA-র স্ক্রিনের মহড়া #১ (দিন ০৩৪), blog #১ প্রকাশ (দিন ০৪২), mock-এর সঙ্গী (দিন ০৪৮), Dip-এর নিয়ম কাগজে (দিন ০৫০)।
 
-> **ব্লক শেষে:** blog #১ প্রকাশ, লোকালের ৩০টা শেষ আর রিমোট DSA চলছে, mock-এর সঙ্গী আছে, "Tell me about yourself" না দেখে বলা যায়, এ পর্যন্ত ১৭টা আবেদন?
+> **ব্লক শেষে:** blog #১ প্রকাশ, DSA-র প্রথম মহড়া হয়েছে আর রিমোট DSA চলছে, mock-এর সঙ্গী আছে, "Tell me about yourself" না দেখে বলা যায়, এ পর্যন্ত ১৭টা আবেদন?
 
 ### দিন ০৩১ · GitHub প্রোফাইল
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* — রিমোটে GitHub-ই সিভি 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -18,7 +18,7 @@
 
 ### দিন ০৩২ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ৯টা; চিঠিতে GitHub প্রোফাইলের লিংক
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -26,38 +26,36 @@
 
 ### দিন ০৩৩ · follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · ৭–১০ দিন আগের আবেদনে একবার follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** follow-up গেছে?
 
-### দিন ০৩৪ · Tell me about yourself — রিমোট
+### দিন ০৩৪ · DSA — স্ক্রিনের মহড়া #১
 
-- [ ] ৪০′ ৬০ সেকেন্ডের **"Tell me about yourself"** ইংরেজিতে লিখুন — এখন কী করেন → কীভাবে এলেন → কেন রিমোট আর কেন এই ধরনের পদ; শেষে কাজের সময় এক বাক্যে; তারপর পাঁচবার জোরে 🔁 🧠 (Active learning)
-- [ ] ২০′ ইংরেজি — না দেখে বলুন, রেকর্ড; ৬০ সেকেন্ডে শেষ হলো? কোন শব্দ খুঁজলেন? 🧠 (Feedback)
+- [ ] ৬০′ ⚑ DSA — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এর আজকের দিন: **স্ক্রিনের মহড়া** — ২টা প্রবলেম টানা, প্রতিটা ২৫′, সাদা editor, ইংরেজিতে জোরে; শেষে ১০′ হিসাব ঐ সাইটে 🧠 (Deep work · Everything is a game)
 
-> **দিন শেষে:** না দেখে ৬০ সেকেন্ডে বলা যায়?
+> **দিন শেষে:** মহড়া হয়েছে, দুটোর কয়টা ২৫′-এ?
 
-### দিন ০৩৫ · প্রথম রেকর্ডিং
+### দিন ০৩৫ · Tell me about yourself — রিমোট, প্রথম রেকর্ডিং
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৩৫′ `dsa_prep_local_company`-এর পূর্ণ README ইংরেজিতে — সমস্যা · সিদ্ধান্ত · trade-off · ফলাফল, এক পাতায়; সাথে **একটা কঠিন bug-এর গল্প** (যেমন static export-এ hydration mismatch)
+- [ ] ৩৫′ ৬০ সেকেন্ডের **"Tell me about yourself"** ইংরেজিতে লিখুন — এখন কী করেন → কীভাবে এলেন → কেন রিমোট আর কেন এই ধরনের পদ; শেষে কাজের সময় এক বাক্যে; তারপর পাঁচবার জোরে, শেষবার না দেখে 🔁 🧠 (Active learning)
 - [ ] ১৫′ ইংরেজি — ২ মিনিট নিজের কাজ নিয়ে, রেকর্ড; ফাইলটা `baseline` নামে রেখে দিন — দিন ১৭৫-এ তুলনা হবে 🧠 (Feedback)
 
-> **দিন শেষে:** `baseline` রেকর্ডিং রাখা আছে?
+> **দিন শেষে:** না দেখে ৬০ সেকেন্ডে বলা যায়, আর `baseline` রেকর্ডিং রাখা আছে?
 
-### দিন ০৩৬ · বার্তা
+### দিন ০৩৬ · dsa_prep_local_company-এর README
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ১৫′ LinkedIn বার্তা ×২
-- [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩৫′ `dsa_prep_local_company`-এর পূর্ণ README ইংরেজিতে — সমস্যা · সিদ্ধান্ত · trade-off · ফলাফল, এক পাতায়; সাথে **একটা কঠিন bug-এর গল্প** (যেমন static export-এ hydration mismatch)
 
-> **দিন শেষে:** বার্তা দুটো গেছে?
+> **দিন শেষে:** README আর bug-এর গল্প লেখা?
 
 ### দিন ০৩৭ · দশম আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য **১০টা**; এখন থেকে সিভিতে দরকারি বদল চলে
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -65,7 +63,7 @@
 
 ### দিন ০৩৮ · mock-এর সঙ্গী খোঁজা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ mock interview-এর সঙ্গী — ইংরেজিতে interview নিতে পারে এমন ৩ জনের নাম (রিমোটে কাজ করা কেউ হলে সবচেয়ে ভালো), তিনজনকেই বার্তা: দিন ১০৪ থেকে মাসে একবার ৪৫′ 🧠 (Community)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -73,19 +71,19 @@
 
 ### দিন ০৩৯ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ১১টা
 - [ ] ১৫′ ইংরেজি — আজকের কোম্পানির জন্য "Tell me about yourself"-এর শেষ বাক্য বদলে বলুন
 
 > **দিন শেষে:** এ পর্যন্ত ১১টা আবেদন?
 
-### দিন ০৪০ · follow-up
+### দিন ০৪০ · বার্তা, follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ১৫′ LinkedIn বার্তা ×১ · ৭–১০ দিন আগের আবেদনে একবার follow-up
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ২০′ LinkedIn বার্তা ×২ · ৭–১০ দিন আগের আবেদনে একবার follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
-> **দিন শেষে:** follow-up গেছে?
+> **দিন শেষে:** বার্তা দুটো আর follow-up গেছে?
 
 ### দিন ০৪১ · blog #১ — খসড়া
 
@@ -104,7 +102,7 @@
 
 ### দিন ০৪৩ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×২ — এবার blog-এর লিংক সাথে
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -112,7 +110,7 @@
 
 ### দিন ০৪৪ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ১২টা; চিঠির "আপনার একটা প্রমাণ" = blog #১
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -120,7 +118,7 @@
 
 ### দিন ০৪৫ · async-এর নমুনা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ নিজের কোনো repo-র সাম্প্রতিক বদলে একটা **ভালো PR description** — কী বদলাল, কেন, কীভাবে test করলেন, screenshot; রিমোট টিম সারাদিন এটাই পড়ে 🔁 🧠 (Skill stacking · Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — PR description-টা ৩০ সেকেন্ডে মুখে
 
@@ -128,19 +126,19 @@
 
 ### দিন ০৪৬ · আবেদন
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ১৩টা
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** এ পর্যন্ত ১৩টা আবেদন?
 
-### দিন ০৪৭ · লোকালের ৩০টা — শেষ
+### দিন ০৪৭ · follow-up
 
-- [ ] ৩০′ ⚑ DSA — [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এর শেষ দিন; ৩০টা শেষ। নতুন প্রবলেম ঐ সাইটে আর নয় 🧠 (Deliberate practice · Have an endpoint)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ LinkedIn বার্তা ×১ · follow-up
-- [ ] ১৫′ ইংরেজি — ৩০টার মধ্যে সবচেয়ে কঠিনটা, approach জোরে
+- [ ] ১৫′ ইংরেজি — এ পর্যন্ত সবচেয়ে কঠিন প্রবলেমটা, approach জোরে
 
-> **দিন শেষে:** লোকালের ৩০টা শেষ?
+> **দিন শেষে:** follow-up গেছে?
 
 ### দিন ০৪৮ · ছয় story, সঙ্গী নিশ্চিত
 
@@ -148,7 +146,7 @@
 - [ ] ১০′ ⚑ mock-এর সঙ্গী নিশ্চিত — কে, আর প্রথম mock-এর দিন (দিন ১০৪) 🧠 (Community)
 - [ ] ১০′ ইংরেজি — কোন প্রশ্নে কোন story বাছলেন, কেন
 
-> **দিন শেষে:** ৬ story, লোকালের ৩০ DSA, mock-এর সঙ্গী — তিনটাই আছে?
+> **দিন শেষে:** ৬ story আর mock-এর সঙ্গী — দুটোই আছে?
 
 ### দিন ০৪৯ · system_design-এর README
 
@@ -158,13 +156,13 @@
 
 > **দিন শেষে:** `system_design` README সম্পূর্ণ?
 
-### দিন ০৫০ · রিমোট DSA শুরু, Dip-এর নিয়ম
+### দিন ০৫০ · Dip-এর নিয়ম
 
-- [ ] ৩০′ ⚑ DSA — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের দিন; **টাইমার, সাদা editor, ইংরেজিতে জোরে** 🧠 (Deliberate practice · Test yourself)
+- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ `00-rules.md`-এর Dip-এর নিয়ম নিজের ভাষায় ৩ লাইনে — কাগজে, ল্যাপটপের পাশে; রিমোটে সাড়া আসতে সময় লাগে, আগে মেনে নেওয়া 🧠 (The dip)
 - [ ] ১৫′ ইংরেজি — "সাড়া না এলে কী করব" — নিজেকে ১ মিনিট বলুন
 
-> **দিন শেষে:** রিমোট DSA-র প্রথম দিন হয়েছে, Dip-এর নিয়ম কাগজে?
+> **দিন শেষে:** Dip-এর নিয়ম কাগজে?
 
 ### দিন ০৫১ · আবেদন
 
@@ -241,7 +239,7 @@
 
 - [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ৩০′ আবেদন — এ পর্যন্ত লক্ষ্য ১৭টা
-- [ ] ১০′ ব্লক ২-এর হিসাব — blog #১, লোকালের ৩০ DSA, mock-এর সঙ্গী, "Tell me about yourself", তিনটা pin, ১৭ আবেদন: কোনটা বাকি, এক লাইনে 🧠 (It's all in the frame)
+- [ ] ১০′ ব্লক ২-এর হিসাব — blog #১, DSA-র মহড়া #১, mock-এর সঙ্গী, "Tell me about yourself", তিনটা pin, ১৭ আবেদন: কোনটা বাকি, এক লাইনে 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — "Tell me about yourself", রেকর্ড — `baseline`-এর সাথে একবার শুনে দেখুন
 
 > **দিন শেষে:** এ পর্যন্ত ১৭টা আবেদন?
