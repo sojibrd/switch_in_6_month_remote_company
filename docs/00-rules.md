@@ -197,8 +197,8 @@ plan পেছায় না। শুরু থেকে আজ ৫১তম 
 
 - **সব মহাদেশে ছড়িয়ে আবেদন নয়।** সব জায়গায় আবেদন মানে কোথাওই আবেদন না।
 - **৫০টার পরে নতুন DSA প্রবলেম নয়; DSA শেষের অপেক্ষায় আবেদন আটকে রাখাও নয়।**
-- **System design:** কল্পনার Twitter নয়, মুখস্থ সংখ্যা নয়; `system_design`-এর ডক ১৯–২৫-এর তত্ত্ব বাদ (ডক ০৪ বাদে), simulation-এর scalable লেভেল বাদ। থাকবে **frontend system design** আর **ইংরেজি design doc** — দিন ধরে [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এ।
-- **নতুন প্রজেক্ট নয়।** pin থাকবে তিনটা — `dsa_prep_local_company`, `system_design`, `srdtube`।
+- **System design:** কল্পনার Twitter নয়, মুখস্থ সংখ্যা নয়; system design-এর ২৫টা ডকের ১৯–২৫-এর তত্ত্ব বাদ (ডক ০৪ বাদে), simulation-এর scalable লেভেল বাদ। থাকবে **frontend system design** আর **ইংরেজি design doc** — দিন ধরে [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এ।
+- **নতুন প্রজেক্ট নয়।** pin থাকবে তিনটা — `dsa_prep_local_company`, `system_design_local_company`, `srdtube`।
 - **Fullstack শেখা আবেদনের শর্ত নয়।**
 - **"প্রস্তুত হয়ে আবেদন করব" নয়।** প্রথম দুটো interview খারাপ যাবে — ওগুলোই আসল প্রস্তুতি।
 - **বর্তমান চাকরি ছাড়বেন না।** বেতন হাতে রেখে খোঁজাই সবচেয়ে শক্ত অবস্থান।

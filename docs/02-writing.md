@@ -11,7 +11,7 @@
 ### দিন ০৩১ · GitHub প্রোফাইল
 
 - [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* — রিমোটে GitHub-ই সিভি 🧠 (Pareto)
+- [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design_local_company`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* — রিমোটে GitHub-ই সিভি 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** GitHub-এ ঠিক তিনটা pin, আর প্রোফাইল README ইংরেজিতে?
@@ -148,13 +148,13 @@
 
 > **দিন শেষে:** ৬ story আর mock-এর সঙ্গী — দুটোই আছে?
 
-### দিন ০৪৯ · system_design-এর README
+### দিন ০৪৯ · system_design_local_company-এর README
 
 - [ ] ১০′ সপ্তাহের হিসাব — আজ ২০২৬-১১-০১ বা তার পরে হলে সিভির সারাংশে "nearly 4 years" → **"4 years"**
-- [ ] ৩৫′ `system_design`-এর পূর্ণ README ইংরেজিতে — সমস্যা · সিদ্ধান্ত · trade-off · ফলাফল + একটা কঠিন bug-এর গল্প
-- [ ] ১৫′ ইংরেজি — `system_design` কী আর কেন, ১ মিনিটে
+- [ ] ৩৫′ `system_design_local_company`-এর পূর্ণ README ইংরেজিতে — সমস্যা · সিদ্ধান্ত · trade-off · ফলাফল + একটা কঠিন bug-এর গল্প
+- [ ] ১৫′ ইংরেজি — `system_design_local_company` কী আর কেন, ১ মিনিটে
 
-> **দিন শেষে:** `system_design` README সম্পূর্ণ?
+> **দিন শেষে:** `system_design_local_company` README সম্পূর্ণ?
 
 ### দিন ০৫০ · Dip-এর নিয়ম
 
@@ -199,7 +199,7 @@
 ### দিন ০৫৫ · বেতন — উৎস ২ ও ৩
 
 - [ ] ৪০′ রিমোট বেতনের হিসাব, উৎস ২ ও ৩ — বেতন লেখা থাকে এমন সাম্প্রতিক ৫টা রিমোট job post-এর পরিসর, আর তালিকার একটা ভেটিং প্ল্যাটফর্ম বা recruiter যা বলে; তিন উৎস পাশাপাশি এক টেবিলে, USD-তে 🧠 (Trust this one person)
-- [ ] ২০′ ইংরেজি — `system_design` নিয়ে ৫ মিনিট টানা, রেকর্ড 🧠 (Feedback)
+- [ ] ২০′ ইংরেজি — `system_design_local_company` নিয়ে ৫ মিনিট টানা, রেকর্ড 🧠 (Feedback)
 
 > **দিন শেষে:** তিন উৎসের সংখ্যা এক টেবিলে?
 
