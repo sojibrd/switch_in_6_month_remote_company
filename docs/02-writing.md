@@ -142,7 +142,7 @@
 
 ### দিন ০৪৮ · ছয় story, সঙ্গী নিশ্চিত
 
-- [ ] ৪০′ ছয় story, এলোমেলো — প্রশ্ন ব্যাংক থেকে ৪টা নতুন প্রশ্ন, একই ধরনের দুটো পরপর নয়; নোট বন্ধ, ইংরেজিতে রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ৪০′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: ছয় story, চারটা নতুন প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ ⚑ mock-এর সঙ্গী নিশ্চিত — কে, আর প্রথম mock-এর দিন (দিন ১০৪) 🧠 (Community)
 - [ ] ১০′ ইংরেজি — কোন প্রশ্নে কোন story বাছলেন, কেন
 

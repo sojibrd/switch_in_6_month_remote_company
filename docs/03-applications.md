@@ -27,7 +27,7 @@
 ### দিন ০৬৩ · follow-up প্রশ্নে টেকা
 
 - [ ] ১০′ সপ্তাহের হিসাব — এ পর্যন্ত ১৭; ২০-এর আগে তিনটা বাকি
-- [ ] ৪৫′ story #১–#৩ — প্রতিটায় তিনটা follow-up নিজেকে জিজ্ঞেস করে উত্তর: *"Why did you choose that?" · "What was the result, exactly?" · "What would you do differently?"*; রেকর্ড, তারপর যে follow-up-এ থামলেন সেটা আবার, ধীরে 🧠 (Test yourself)
+- [ ] ৪৫′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: story #১–#৩-এ follow-up; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ৯টা follow-up-এর উত্তর দেওয়া গেছে?
 
@@ -50,7 +50,7 @@
 ### দিন ০৬৬ · আপনার প্রশ্ন
 
 - [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ interviewer-কে আপনি যা জিজ্ঞেস করবেন — ৫টা প্রশ্ন ইংরেজিতে, রিমোট টিমের জন্য: async কীভাবে চলে, কোন সময়ে meeting, প্রথম তিন মাসে কী আশা, code review কীভাবে, দূর থেকে onboarding; [`behavioural_interview`](../../behavioural_interview/docs/04-question-bank/02-questions-you-ask.md) মিলিয়ে 🧠 (Everything is a game)
+- [ ] ২৫′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: interviewer-কে আপনার পাঁচ প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — পাঁচটা প্রশ্ন জোরে, স্বাভাবিক গলায়
 
 > **দিন শেষে:** ৫টা প্রশ্ন লেখা?
@@ -73,7 +73,7 @@
 
 ### দিন ০৬৯ · তিন দৈর্ঘ্য — ১
 
-- [ ] ৪৫′ story #১–#৩ তিন দৈর্ঘ্যে — ৩০ সেকেন্ড, ৯০ সেকেন্ড, ৩ মিনিট; প্রতিটা রেকর্ড 🧠 (Deliberate practice)
+- [ ] ৪৫′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: story #১–#৩ তিন দৈর্ঘ্যে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — ৩০ সেকেন্ডের সংস্করণে কোন অংশ বাদ গেল, কেন ঠিক
 
 > **দিন শেষে:** তিনটা story তিন দৈর্ঘ্যে বলা গেছে?
@@ -135,7 +135,7 @@
 ### দিন ০৭৭ · তিন দৈর্ঘ্য — ২, DSA থামা
 
 - [ ] ১০′ সপ্তাহের হিসাব · ⚑ [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এর শেষ দিন — থামার সিদ্ধান্ত ঐ সাইটে লিখুন: নতুন প্রবলেম নয়, এখন থেকে শুধু ঝালাই 🧠 (Have an endpoint · 10,000 hours rule)
-- [ ] ৪৫′ story #৪–#৬ তিন দৈর্ঘ্যে — ৩০ সেকেন্ড, ৯০ সেকেন্ড, ৩ মিনিট; প্রতিটা রেকর্ড, শেষে ব্যর্থতার story-র ৩০ সেকেন্ডেরটা আরেকবার 🧠 (Deliberate practice)
+- [ ] ৪৫′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: story #৪–#৬ তিন দৈর্ঘ্যে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** DSA-র থামা লেখা, আর ছয়টা story-ই তিন দৈর্ঘ্যে আছে?
 

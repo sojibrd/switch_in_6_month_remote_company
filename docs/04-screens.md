@@ -226,7 +226,7 @@
 
 ### দিন ১১৮ · দরজাভেদে story
 
-- [ ] ৫০′ একই প্রশ্ন, তিন দরজা — remote-first কোম্পানি, Ember কোডবেসের কোম্পানি, ভেটিং বা কন্ট্রাক্টের ক্লায়েন্ট একই "Tell me about a time…"-এ কী শুনতে চায়; ৩টা প্রশ্ন × ৩ দরজা, নোট বন্ধ, রেকর্ড — [`behavioural_interview`](../../behavioural_interview/docs/04-question-bank/03-company-variants.md) মিলিয়ে 🧠 (Interleaving · Everything is a game)
+- [ ] ৫০′ behavioural — [রিমোট behavioural](https://sojibrd.github.io/behavioural_interview_remote_company/)-এর আজকের দিন: একই প্রশ্ন, তিন দরজা; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ ইংরেজি — কোন দরজায় কোন story সবচেয়ে ভালো খাটে, এক লাইনে করে
 
 > **দিন শেষে:** তিন দরজার জন্য story বাছাই লেখা?
