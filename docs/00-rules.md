@@ -20,7 +20,7 @@ offer হাতে আসার পরে মানুষ যেকোনো স
 
 আবেদন আর process-এর সংখ্যা ব্যবহারকারীর সিদ্ধান্ত (২০২৬-০৯-১৫); বাকি সব কাজ আগে থেকে লেখা ফাইল থেকে দিনে ভাঙা। কোনো তথ্য বদলালে এই ক্রমে:
 
-1. `legacy_and_wisdom/docs/ASSUMPTIONS.md`
+1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — বিশেষ করে `crack-remote-company-roadmap.md`, `what-should-i-target-local-or-remote.md`, `two-lakh-per-month-in-2-years.md`, `how-to-write-my-cv.md`, `system-design-what-to-ignore-for-remote.md`, `dsa-prep-what-to-ignore-for-remote.md`, `after-getting-response/`
 3. এই ফোল্ডার
 
