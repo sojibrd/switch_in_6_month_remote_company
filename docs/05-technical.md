@@ -76,10 +76,10 @@
 ### দিন ১২৯ · framework ২ — state কোথায়
 
 - [ ] ৩০′ আগে আজকের ঝালাই, ১৫′-এর মধ্যে; তারপর [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর আজকের দিন 🧠 (Spaced repetition · Deliberate practice)
-- [ ] ২৫′ **কোন state কোথায়** — component, service, নাকি URL; তিনটার প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ, আর ভুল জায়গায় রাখলে কী ভাঙে 🔁 🧠 (Feynman · Concepts vs Facts)
+- [ ] ২৫′ **কোন state কোথায়** — [রিমোট system design](https://sojibrd.github.io/system_design_remote_company/)-এর দিন ০৩০-এ লেখা উত্তর **মুখে, না দেখে:** component, service, নাকি URL — তিনটা উদাহরণ আর ভুল জায়গায় রাখলে কী ভাঙে; তারপর লেখার সাথে মিলিয়ে 🧠 (Test yourself · Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — উদাহরণ তিনটা জোরে
 
-> **দিন শেষে:** তিনটা জায়গার তিনটা উদাহরণ লেখা?
+> **দিন শেষে:** তিনটা উদাহরণ না দেখে বলা গেছে?
 
 ### দিন ১৩০ · আবেদন
 
