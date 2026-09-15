@@ -223,7 +223,7 @@
 
 ### দিন ১৭৮ · offer-এর চেকলিস্ট, আর তার পরের ছন্দ
 
-- [ ] ২৫′ **রিমোট offer-এর চেকলিস্ট** — employee (EOR) নাকি contractor · কোন মুদ্রায় আর কোন পথে টাকা (দিন ০১৩-এর ব্যবস্থার সাথে মেলে?) · ঢাকার সময়ে কখন কাজ (রাত ১১টার সীমা) · ছুটি আর insurance · চুক্তি শেষের notice; তারপর দিন ০০৩-এর সীমার বাক্যটা আবার পড়ুন — [`after-getting-response/06-offer-and-resign.md`](../../brainstorming/after-getting-response/06-offer-and-resign.md) মিলিয়ে 🧠 (Everything is a game · Stakes & Rewards)
+- [ ] ২৫′ **রিমোট offer-এর চেকলিস্ট** — employee (EOR) নাকি contractor · কোন মুদ্রায় আর কোন পথে টাকা (দিন ০১৩-এর ব্যবস্থার সাথে মেলে?) · ঢাকার সময়ে কখন কাজ (রাত ১১টার সীমা) · ছুটি আর insurance · চুক্তি শেষের notice; তারপর দিন ০০৩-এর সীমার বাক্যটা আবার পড়ুন — [`application-to-offer.md`](../../brainstorming/application-to-offer.md)-এর ধাপ ৬ মিলিয়ে 🧠 (Everything is a game · Stakes & Rewards)
 - [ ] ২৫′ দিন ১৮০-র পরের তিন সপ্তাহ — `00-rules.md`-এর "দিন ১৮০-র পরে" দেখে সপ্তাহের ছন্দ লিখুন: আবেদন কয়টা, ঝালাই কখন, চলমান process কীভাবে, পরের ইংরেজি লেখা কবে; offer আসুক বা না আসুক 🧠 (System vs goal · Create a roadmap)
 - [ ] ১৫′ ইংরেজি — পরের তিন সপ্তাহের পরিকল্পনা, ১ মিনিটে
 

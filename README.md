@@ -45,7 +45,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`crack-remote-company-roadmap.md`, `what-should-i-target-local-or-remote.md`, `two-lakh-per-month-in-2-years.md`, `how-to-write-my-cv.md`, `*-for-remote.md`, `after-getting-response/`) → এই ফোল্ডারের `docs/`।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`which-market.md`, `income-math.md`, `proof-projects-and-cv.md`, `dsa.md`, `system-design.md`, `application-to-offer.md`) → এই ফোল্ডারের `docs/`।
 
 ### ব্লক ফাইলের যে ছাঁচ parser মানে
 

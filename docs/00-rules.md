@@ -21,7 +21,7 @@ offer হাতে আসার পরে মানুষ যেকোনো স
 আবেদন আর process-এর সংখ্যা ব্যবহারকারীর সিদ্ধান্ত (২০২৬-০৯-১৫); বাকি সব কাজ আগে থেকে লেখা ফাইল থেকে দিনে ভাঙা। কোনো তথ্য বদলালে এই ক্রমে:
 
 1. `brainstorming/ASSUMPTIONS.md`
-2. `brainstorming/` — বিশেষ করে `crack-remote-company-roadmap.md`, `what-should-i-target-local-or-remote.md`, `two-lakh-per-month-in-2-years.md`, `how-to-write-my-cv.md`, `system-design-what-to-ignore-for-remote.md`, `dsa-prep-what-to-ignore-for-remote.md`, `after-getting-response/`
+2. `brainstorming/` — বিশেষ করে `which-market.md` (রিমোট কোম্পানি · লোকাল না রিমোট), `income-math.md` (২ বছরে ২ লাখ), `proof-projects-and-cv.md` (সিভি), `system-design.md` ও `dsa.md` (রিমোটে কী উপেক্ষা), `application-to-offer.md`
 3. এই ফোল্ডার
 
 এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_in_6_month_local_company/) · **রিমোট** (এটা) · [গ্লোবাল](https://sojibrd.github.io/switch_in_6_month_global_company/)।
@@ -211,5 +211,5 @@ plan পেছায় না। শুরু থেকে আজ ৫১তম 
 
 ## দিন ১৮০-র পরে
 
-- **offer এলে** — ১৮০ দিনের আগে হোক বা পরে: `brainstorming/after-getting-response/06-offer-and-resign.md` আর `07-notice-period.md`। রিমোট offer-এ দেখবেন — employee (EOR) নাকি contractor, কোন মুদ্রায় আর কীভাবে টাকা, ঢাকার সময়ে কখন কাজ, চুক্তি শেষের notice।
+- **offer এলে** — ১৮০ দিনের আগে হোক বা পরে: `brainstorming/application-to-offer.md`-এর ধাপ ৬ আর `after-joining.md`-এর ধাপ ৭। রিমোট offer-এ দেখবেন — employee (EOR) নাকি contractor, কোন মুদ্রায় আর কীভাবে টাকা, ঢাকার সময়ে কখন কাজ, চুক্তি শেষের notice।
 - **না এলে** সপ্তাহের ছন্দ চলতে থাকবে — **সই না হওয়া পর্যন্ত আবেদন থামাবেন না।** তিন মাসে একটা ইংরেজি লেখা চালু থাকবে।
